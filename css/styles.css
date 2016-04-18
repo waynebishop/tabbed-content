@@ -2,4 +2,32 @@
 	background-color: red; 
 }	*/
 
-/*Comment goes here*/
+section {
+	width: 800px;
+	display: none;
+
+}
+
+main {
+	width: 800px;
+	margin: 0 auto;
+}
+
+
+#section-one {
+	background-color: red;
+	display: block;
+}
+#section-two { background-color: orange;}
+#section-three { background-color: yellow;}
+#section-four { background-color: green;}
+#section-five { background-color: blue;}
+
+ul li {
+	display: inline-block;
+	
+}
+
+
+
+
